@@ -55,7 +55,7 @@
     "pouchdb-debug": "^7.1.1",
     "pouchdb-find": "^7.0.0",
     "source-map-support": "^0.5.9",
-    "web3": "1.2.9",
+    "web3": "1.5.3",
     "web3-utils": "1.2.9"
   },
   "devDependencies": {
@@ -74,7 +74,7 @@
     "hkts": "^0.3.1",
     "jest": "26.5.2",
     "jsondown": "^1.0.0",
-    "madge": "^3.11.0",
+    "madge": "^8.0.0",
     "ts-jest": "26.4.1",
     "ts-node-dev": "^1.0.0-pre.32",
     "tsconfig-paths": "^3.7.0",
