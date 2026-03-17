@@ -28,7 +28,7 @@
     "bn.js": "^5.2.3",
     "debug": "^4.1.0",
     "source-map-support": "^0.5.19",
-    "web3": "1.2.9"
+    "web3": "1.5.3"
   },
   "peerDependencies": {
     "truffle": "^5.0.14"
