@@ -38,7 +38,7 @@
     "babel-preset-env": "^1.6.1",
     "mocha": "8.1.2",
     "sinon": "9.0.2",
-    "tmp": "0.2.4"
+    "tmp": "0.2.5"
   },
   "keywords": [
     "compile",
