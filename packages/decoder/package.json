@@ -39,7 +39,7 @@
     "@truffle/provider": "^0.2.25",
     "@types/big.js": "^4.0.5",
     "@types/bn.js": "^4.11.2",
-    "@types/debug": "^0.0.31",
+    "@types/debug": "^4.1.12",
     "@types/web3": "1.0.19",
     "chai": "^4.2.0",
     "lodash.clonedeep": "^4.5.0",
